@@ -7,4 +7,9 @@ Click "Download zip" in the right sidebar.  Extract files.  Then, extract the tw
   - SAfull_allgroups_agesexracesmoking.csv
   - SAfull_allgroups_agesexracesmoking_0306.csv
   
-  Check back for further development, possibly an R package.
+The code is in 
+
+  - R.r
+  - SAS.sas
+  
+Check back for further development, possibly an R package.
